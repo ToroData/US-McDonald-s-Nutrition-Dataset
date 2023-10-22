@@ -1,6 +1,6 @@
 # US-McDonald-s-Nutrition-Dataset
 
-A comprehensive nutrition analysis of every menu item, spanning breakfast, beef burgers, chicken and fish sandwiches, fries, salads, soda, coffee and tea, milkshakes, and desserts.
+A comprehensive nutrition analysis of every menu item, spanning breakfast, beef burgers, chicken and fish sandwiches, fries, salads, soda, coffee and tea, milkshakes, and desserts. You can find the article here: [medium.com](https://medium.com/@ricardraigada/uncovering-deep-insights-from-the-us-mcdonalds-nutrition-dataset-e3828966214a)
 
 <div align="center">
     <img src="https://thedatascientist.digital/img/logo.png" alt="Logo" width="25%">
